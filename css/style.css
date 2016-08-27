@@ -1,0 +1,14 @@
+/*hacer 3 titulos y en cada uno un metodo de color distinto*/
+
+h1{
+	color: red;
+	background: yellow;
+}
+h2{
+	color:#c9c9c9;
+	background: #996666
+}
+h3{
+	color:rgb(0,0,255);
+	background: rgb(0,255,0,0.6) ;
+}
